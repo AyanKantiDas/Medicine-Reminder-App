@@ -5,3 +5,4 @@ In addition to reminders, the app features a dedicated Medi Bot section, where y
 ![mediApp Screen 1](https://github.com/user-attachments/assets/47c3d5b0-9271-4652-b565-62f56eabc013)
 
 <h3>This the First Screen</h3>
+----------------------------------------------------------------------------------------------------------------------
