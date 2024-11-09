@@ -6,3 +6,20 @@ In addition to reminders, the app features a dedicated Medi Bot section, where y
 
 <h3>This the First Screen</h3>
 ----------------------------------------------------------------------------------------------------------------------
+On the welcome screen, users are greeted with an inviting heading:
+"Ease Into Wellness: Live Healthier. Step into Wellness: Your Daily Dose Awaits!"
+
+Below this, an interactive counter begins at zero, dynamically tracking the number of medicines the user has set up for reminders, updating with each addition.
+
+The screen also features two functional buttons:
+At the screen there are two buttons 
+
+![medi App screen 2](https://github.com/user-attachments/assets/560f6b6b-75de-4431-9b46-e1d78e201a4c)
+
+
+1. Red Button – Directs users to the medicine reminder setup page, allowing easy scheduling of medication alerts.
+
+![mediApp screen 5](https://github.com/user-attachments/assets/b276e72c-1bb7-4122-a29b-c2f9f3f8148e)
+
+   
+2. the blue one -> Blue Button – Launches the Medibot, an intelligent assistant ready to support users with medication-related inquiries.
