@@ -24,7 +24,7 @@ The screen also features two functional buttons:
 ![mediApp screen 5](https://github.com/user-attachments/assets/b276e72c-1bb7-4122-a29b-c2f9f3f8148e)
 
    
-2. the blue one -> Blue Button – Launches the Medibot, an intelligent assistant ready to support users with medication-related inquiries.
+2. Blue Button – Launches the Medibot, an intelligent assistant ready to support users with medication-related inquiries.
 
 -------------------------------------------------------------------------------------------------------------------------
 
